@@ -1,4 +1,4 @@
-// rodaya.lk server.js
+// server.js    rodaya.lk
 
 var express = require('express');
 var bodyParser = require('body-parser');
