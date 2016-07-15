@@ -1,0 +1,11 @@
+{
+	"name": "rodayalk",
+	"version": "1.4.8",
+	"dependencies": {
+		"bootstrap": "latest",
+        "font-awesome": "latest",
+        "animate.css": "latest",
+		"angular": "latest",
+		"angular-route": "latest"	
+	}
+}
